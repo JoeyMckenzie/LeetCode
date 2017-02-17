@@ -1,8 +1,5 @@
-# LeetCode
+# LeetCode Solutions for C#, Ruby, and JavaScript
 
-=======================================================
-~~~ Solutions for C#, Ruby, and JavaScript ~~~
-=======================================================
 
 The following directories contain my solutions to various programming questions
 from LeetCode. Timing for program execution is included within each solution.
