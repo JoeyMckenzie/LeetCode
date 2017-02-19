@@ -13,4 +13,4 @@ discuss the various solutions, please feel free to contact me at joey32793@gmail
 
 - Joey Mckenzie, aspiring software engineer, die hard science nerd, average home chef
 
-February 18, 2017
+18-Feb-2017: Initial commit
