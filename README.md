@@ -14,3 +14,4 @@ discuss the various solutions, please feel free to contact me at joey32793@gmail
 - Joey Mckenzie, aspiring software engineer, die hard science nerd, average home chef
 
 18-Feb-2017: Initial commit
+04-Mar-2017: Added several solutions to each directory
