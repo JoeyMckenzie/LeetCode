@@ -12,6 +12,3 @@ If there are ways you might suggest to better optimize these solutions, or just
 discuss the various solutions, please feel free to contact me at joey32793@gmail.com.
 
 - Joey Mckenzie, aspiring software engineer, die hard science nerd, average home chef
-
-18-Feb-2017: Initial commit
-04-Mar-2017: Added several solutions to each directory
